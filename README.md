@@ -1,7 +1,9 @@
 # 2023 ITCT Coding Assignment - JPEG Decoder
 Author: 栗漢文  r11922191 
 
-## Run
+## Decode
+* I implement a baseline JPEG decoder in this assignment.
+* Decode a jpeg file by the following script:
 ``` shell
 python main.py /path/to/your/image
 ```
